@@ -1,4 +1,4 @@
 # hello-world
 First repository
 
-I created a branch called readme-edits and gonna make some changes
+I removed everything made by readme-edits. This is a branch2
